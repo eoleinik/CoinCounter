@@ -2,7 +2,6 @@ import numpy as np
 import cv2
 import time
 import sys
-import png
 import PIL
 from StringIO import StringIO
 import base64
