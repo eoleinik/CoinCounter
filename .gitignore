@@ -1,0 +1,6 @@
+.idea/*
+*.pyc
+*.pyd
+*/saved/*
+env/
+secret.py
